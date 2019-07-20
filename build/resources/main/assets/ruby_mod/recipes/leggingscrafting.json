@@ -1,0 +1,36 @@
+{
+  "group": "ruby_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "ruby_mod:ruby"
+    },
+    "1": {
+      "item": "ruby_mod:ruby"
+    },
+    "2": {
+      "item": "ruby_mod:ruby"
+    },
+    "3": {
+      "item": "ruby_mod:ruby"
+    },
+    "5": {
+      "item": "ruby_mod:ruby"
+    },
+    "6": {
+      "item": "ruby_mod:ruby"
+    },
+    "8": {
+      "item": "ruby_mod:ruby"
+    }
+  },
+  "result": {
+    "item": "ruby_mod:rubyarmorlegs",
+    "count": 1
+  }
+}

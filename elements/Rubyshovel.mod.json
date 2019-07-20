@@ -1,0 +1,20 @@
+{
+  "_fv": 0,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ruby_shovel",
+    "customModelName": "Normal",
+    "name": "Ruby Shovel",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 1,
+    "efficiency": 10.0,
+    "enchantability": 2,
+    "damageVsEntity": 2.5,
+    "usageCount": 900,
+    "blocksAffected": []
+  }
+}

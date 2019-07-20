@@ -1,0 +1,27 @@
+{
+  "group": "ruby_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "ruby_mod:ruby"
+    },
+    "1": {
+      "item": "ruby_mod:ruby"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "ruby_mod:rubyhoe",
+    "count": 1
+  }
+}

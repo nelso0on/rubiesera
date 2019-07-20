@@ -1,0 +1,20 @@
+{
+  "_fv": 0,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ruby_hoe",
+    "customModelName": "Normal",
+    "name": "Ruby Hoe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 1,
+    "efficiency": 10.0,
+    "enchantability": 2,
+    "damageVsEntity": 3.0,
+    "usageCount": 900,
+    "blocksAffected": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_fv": 0,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ruby_sword",
+    "customModelName": "Normal",
+    "name": "Ruby Sword",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "enchantability": 2,
+    "damageVsEntity": 9.0,
+    "usageCount": 500,
+    "blocksAffected": []
+  }
+}

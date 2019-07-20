@@ -1,0 +1,20 @@
+{
+  "_fv": 0,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ruby_axe",
+    "customModelName": "Normal",
+    "name": "Ruby Axe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 1,
+    "efficiency": 10.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 900,
+    "blocksAffected": []
+  }
+}

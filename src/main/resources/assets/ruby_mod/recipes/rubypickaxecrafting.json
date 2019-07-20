@@ -1,0 +1,30 @@
+{
+  "group": "ruby_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "ruby_mod:ruby"
+    },
+    "1": {
+      "item": "ruby_mod:ruby"
+    },
+    "2": {
+      "item": "ruby_mod:ruby"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "ruby_mod:rubypickaxe",
+    "count": 1
+  }
+}

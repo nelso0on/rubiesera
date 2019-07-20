@@ -1,0 +1,32 @@
+{
+  "_fv": 3,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "dd",
+    "customModelName": "Normal",
+    "name": "Ruby-Reinforced Bow",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "Items.ARROW"
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "bulletPower": 1.5,
+    "bulletDamage": 7.5,
+    "bulletKnockback": 5,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "Items.ARROW"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

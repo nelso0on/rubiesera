@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "ruby_mod:rubydimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "ruby_mod:rubydimension_portal_ns"
+    },
+    "inventory": {
+      "model": "ruby_mod:rubydimension_portal_ns"
+    }
+  }
+}

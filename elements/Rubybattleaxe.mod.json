@@ -1,0 +1,20 @@
+{
+  "_fv": 0,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ruby_battleaxe2",
+    "customModelName": "Normal",
+    "name": "Ruby Battleaxe",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "enchantability": 2,
+    "damageVsEntity": 11.0,
+    "usageCount": 900,
+    "blocksAffected": []
+  }
+}

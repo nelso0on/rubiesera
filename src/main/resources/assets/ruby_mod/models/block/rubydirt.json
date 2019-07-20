@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ruby_mod:blocks/ruby_dirt",
+    "up": "ruby_mod:blocks/ruby_dirt",
+    "north": "ruby_mod:blocks/ruby_dirt",
+    "east": "ruby_mod:blocks/ruby_dirt",
+    "south": "ruby_mod:blocks/ruby_dirt",
+    "west": "ruby_mod:blocks/ruby_dirt",
+    "particle": "ruby_mod:blocks/ruby_dirt"
+  }
+}
